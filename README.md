@@ -1,2 +1,2 @@
 # motionsfx
-visit => www.motionsfx.com to checkout this site
+visit => https://motionsfx.netlify.app/ to checkout this site
